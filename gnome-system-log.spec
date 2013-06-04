@@ -1,11 +1,11 @@
 Summary:	System log viewer for GNOME
 Name:		gnome-system-log
-Version:	3.8.0
+Version:	3.8.1
 Release:	1
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-system-log/3.8/%{name}-%{version}.tar.xz
-# Source0-md5:	858bbe9475ed4dbab98aee89ad3318fa
+# Source0-md5:	bd97efd2beda571c6a05318df8d29fa9
 URL:		http://live.gnome.org/GnomeUtils
 BuildRequires:	autoconf
 BuildRequires:	automake
